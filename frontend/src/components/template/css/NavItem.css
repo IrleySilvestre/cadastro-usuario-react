@@ -1,0 +1,11 @@
+div.itemNav{
+padding: 0 15px;
+}
+div.itemNav a {
+    font-weight: bold;
+    font-size: 1.5em;
+    display: block;
+    text-decoration: none;
+    padding: 10px 10px;
+    color: #ffffff;
+}

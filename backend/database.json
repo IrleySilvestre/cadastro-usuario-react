@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Irley J. Silvestre",
+      "email": "irleysilvestre.mba@gmail.com",
+      "username": "irleysilvestre"
+    },
+    {
+      "id": 2,
+      "name": "Viviane Pires Viana Silvestre",
+      "email": "vivianepvs@gmail.com",
+      "username": "vivianeviana"
+    },
+    {
+      "id": 3,
+      "name": "Isadora Viana Silvestre",
+      "email": "isadora@gmail.com",
+      "username": "isadoraviana"
+    },
+    {
+      "id": 4,
+      "name": "Emily Viana Silvestre",
+      "email": "emily@gmail.com",
+      "username": "emilyviana"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
